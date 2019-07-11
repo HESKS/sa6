@@ -6,13 +6,13 @@ def percentage(part, whole):
     return 100 * float(part)/float(whole)
 
 
-CONSUMER_KEY = "67FIvkR2aJzeJmPaOfjF2gt23"
+CONSUMER_KEY = "xxxx"
 
-CONSUMER_SECRET = "ajtf6jPYfsVvMLQ9gt2zQ1FKIwTJr8bhdmRcCwXu0iTk02LSFx"
+CONSUMER_SECRET = "xxxx"
 
-ACCESS_TOKEN = "296957600-fFNGCmipPdrvrLtKbiN2vD5i7445nl5BmNynJAwp"
+ACCESS_TOKEN = "xxxx"
 
-ACCESS_SECRET = "hF1sQdGYwJiGZapH2CwKFUIRhR7wNsjbrVpfQ3ENGNUE4"
+ACCESS_SECRET = "xxxx"
 
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
